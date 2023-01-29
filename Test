@@ -1,0 +1,240 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 8650741,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1064981017674387486/1068932992476647485/INFO-og.png"
+      }
+    },
+    {
+      "title": "Welcome to Scarlet & Violet Community!",
+      "description": "Thank you for joining us! This server is focused on Pokemon Scarlet and Violet.\n🔗 [Server Rules](https://discord.com/channels/1045792561471701124/1059621108803973211/1064752704720748644)\n🔗 [Staff](https://discord.com/channels/1045792561471701124/1064981017674387486/1069302451896856626)\n🔗 [Support](https://discord.com/channels/1045792561471701124/1065268872514650112)",
+      "color": 8650741
+    },
+    {
+      "title": "Level Roles",
+      "description": "Talking in the server will allow you to gain exp. The more exp you earn, the higher levels you unlock with each level.\nHere are some of the roles you will receive after unlocking each level:",
+      "color": 8650741,
+      "fields": [
+        {
+          "name": "Lvl 1",
+          "value": "<@&1067798134316597309>\n» On join",
+          "inline": true
+        },
+        {
+          "name": "lvl 5",
+          "value": "<@&1067798600161165322>\n» Small chats",
+          "inline": true
+        },
+        {
+          "name": "level 10",
+          "value": "<@&1067798611041198141>\n» Chit chatting",
+          "inline": true
+        },
+        {
+          "name": "lvl 15",
+          "value": "<@&1067798605974470685>\n» Regular",
+          "inline": true
+        },
+        {
+          "name": "lvl 20",
+          "value": "<@&1067798595526459463>\n» Daily",
+          "inline": true
+        },
+        {
+          "name": "lvl 25",
+          "value": "<@&1067798546264371232>\n» Getting a reputation",
+          "inline": true
+        },
+        {
+          "name": "lvl 30",
+          "value": "<@&1067798575322517664>\n» Going pro mode",
+          "inline": true
+        },
+        {
+          "name": "lvl 35",
+          "value": "<@&1067799949984669816>\n» I'm really active!",
+          "inline": true
+        },
+        {
+          "name": "lvl 40",
+          "value": "<@&1067799955890262128>\n» Someone make me shut it 🤣",
+          "inline": true
+        },
+        {
+          "name": "lvl 50",
+          "value": "<@&1067800684323426304>\n» Been here awhile!",
+          "inline": true
+        },
+        {
+          "name": "lvl 60",
+          "value": "<@&1067800680154288189>\n» Master class",
+          "inline": true
+        },
+        {
+          "name": "lvl 70",
+          "value": "<@&1067800676891111495>\n» Reputation is skyrocketing",
+          "inline": true
+        },
+        {
+          "name": "lvl 80",
+          "value": "<@&1067802094624571473>\n» I'm getting old",
+          "inline": true
+        },
+        {
+          "name": "lvl 90",
+          "value": "<@&1067802400485806150>\n» I can smell the taste of victory",
+          "inline": true
+        },
+        {
+          "name": "lvl 100",
+          "value": "<@&1067800672961036398>\n» I need to touch grass more",
+          "inline": true
+        }
+      ]
+    },
+    {
+      "title": "Booster Perks",
+      "description": "Here are some of the perks you will receive from boosting Scarlet & Violet Community!",
+      "color": 8650741,
+      "fields": [
+        {
+          "name": "> Boost Once",
+          "value": "» Hoisted Role\n» Private giveaway\n» Can ask to upload 5 emojis.",
+          "inline": true
+        },
+        {
+          "name": "> Boost Twice",
+          "value": "» Hoisted Role\n» Private giveaway\n» Can ask to upload 10 emojis.\n» Priority Member\n» Can change nickname and color",
+          "inline": true
+        }
+      ]
+    },
+    {
+      "title": "Misc Role Information",
+      "description": "All our roles on the server:",
+      "color": 8650741,
+      "fields": [
+        {
+          "name": "Owner",
+          "value": "<@&1050975849064710175>",
+          "inline": true
+        },
+        {
+          "name": "Admins",
+          "value": "<@&1048687723386515537>",
+          "inline": true
+        },
+        {
+          "name": "Staff",
+          "value": "<@&1049679457067208796>",
+          "inline": true
+        },
+        {
+          "name": "Developers",
+          "value": "<@&1064258034878136523>",
+          "inline": true
+        },
+        {
+          "name": "ModMail",
+          "value": "<@&1066185128616931380>",
+          "inline": true
+        },
+        {
+          "name": "Boosters",
+          "value": "<@&1051465050130485268>",
+          "inline": true
+        },
+        {
+          "name": "Bots",
+          "value": "<@&1049743980998438932>",
+          "inline": true
+        },
+        {
+          "name": "Members",
+          "value": "<@&1053271885745508462>",
+          "inline": true
+        },
+        {
+          "name": "Announcement role",
+          "value": "<@&1065468563026083951>",
+          "inline": true
+        },
+        {
+          "name": "Small Announcement role",
+          "value": "<@&1067051809249693697>",
+          "inline": true
+        },
+        {
+          "name": "Streaming Role",
+          "value": "<@&1067824419168325753>",
+          "inline": true
+        },
+        {
+          "name": "Stream Role",
+          "value": "<@&1049675905984897114>",
+          "inline": true
+        },
+        {
+          "name": "Scarlet Role",
+          "value": "<@&1049346189558026291>",
+          "inline": true
+        },
+        {
+          "name": "Violet Role",
+          "value": "<@&1049345839983775774>",
+          "inline": true
+        },
+        {
+          "name": "Tera Raider role",
+          "value": "<@&1049346517317730375>",
+          "inline": true
+        },
+        {
+          "name": "Giveaways Role",
+          "value": "<@&1049346518265643048>",
+          "inline": true
+        },
+        {
+          "name": "In game event role",
+          "value": "<@&1049675526433935371>",
+          "inline": true
+        },
+        {
+          "name": "Sandwich Sharing role",
+          "value": "<@&1053644297372696637>",
+          "inline": true
+        },
+        {
+          "name": "Herba Mystica role",
+          "value": "<@&1053644290674401321>",
+          "inline": true
+        },
+        {
+          "name": "Server Events role",
+          "value": "<@&1053644522216751164>",
+          "inline": true
+        },
+        {
+          "name": "Union Circles role",
+          "value": "<@&1053644163675078667>",
+          "inline": true
+        },
+        {
+          "name": "Tournaments role",
+          "value": "<@&1053644535839854632>",
+          "inline": true
+        },
+        {
+          "name": "Experienced Raider role",
+          "value": "<@&1065282242781388892>",
+          "inline": true
+        }
+      ]
+    }
+  ],
+  "username": "Scarlet & Violet Community",
+  "avatar_url": "https://images-ext-1.discordapp.net/external/A3LqIDQ7W172X717s9nR1X5yKHltoZItEVh9ocu5_ho/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1045792561471701124/8850bc6f82c6d419faa032299312a891.png",
+  "attachments": []
+}
